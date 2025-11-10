@@ -14,7 +14,7 @@ With 6+ years of experience in business impact data analysis.
 
 ## 🔗 Find me
 - [LinkedIn](https://www.linkedin.com/in/sydneyabuto25/)
-- [Personal Website](datascienceportfol.io/sydneyabuto)
+- [Personal Website](https://www.datascienceportfol.io/sydneyabuto)
 
 ## 📫 Contact
 Feel free to connect or reach out via [sydney.abuto@gmail.com)!
