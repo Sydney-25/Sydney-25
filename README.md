@@ -10,7 +10,7 @@ With 6+ years of experience in business impact data analysis.
 
 ## 🏆 Featured Projects
 - [Loan Eligibility Calculator](https://github.com/Sydney-25/loan-eligibility-calculator)
-- [British-Airways](https://github.com/Sydney-25/British-Airways)
+- [British-Airways](https://github.com/Sydney-25/British-Airways.)
 
 ## 🔗 Find me
 - [LinkedIn](https://www.linkedin.com/in/sydneyabuto25/)
