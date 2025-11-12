@@ -1,20 +1,34 @@
 # Hi, I'm Sydney Abuto 👋
 
-**Innovative Business Intelligence Analyst**  
-With 6+ years of experience in business impact data analysis.
+**Cross-Functional Data Scientist & Predictive Modeling Specialist**
+With 6+ years of experience leveraging data analysis, machine learning, and business intelligence to drive operational efficiency and high-impact decision-making.
+
+---
 
 ## 🚀 Skills
-- Python, Data Analytics, Business Intelligence
-- Big Data, Dashboarding (Power BI, Tableau & Looker)
-- Project Management & Problem Solving
+### Core Technical
+* **Programming:** Python, SQL, Jupyter
+* **ML/Statistical Modeling:** Regression, Classification, Model Evaluation (Precision, Recall, F1, AUC), Imbalanced Data Handling (SMOTE)
+* **Frameworks:** TensorFlow/Keras, Scikit-learn, XGBoost
+* **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA)
 
-## 🏆 Featured Projects
-- [Loan Eligibility Calculator](https://github.com/Sydney-25/loan-eligibility-calculator)
-- [British-Airways](https://github.com/Sydney-25/British-Airways.)
+### Business & Tools
+* **Business Intelligence:** Dashboarding (Power BI, Tableau & Looker), Data Visualization
+* **Big Data**
+* **Project Management & Problem Solving**
+
+---
+
+## 🏆 Featured Projects (Advanced Analytics & ML)
+* **[Stroke Risk Prediction]**: Developed and evaluated classification models (Random Forest, XGBoost, etc.) to predict stroke likelihood, achieving **91.6% accuracy** and showcasing expertise in complex **imbalanced data handling**.
+* **[Osteoporosis Risk Prediction]**: Implemented a **Decision Tree Classifier** to predict patient risk of osteoporosis with **~87% accuracy**, demonstrating skills in end-to-end classification modeling for critical outcomes.
+* **[Real-Time Food Delivery Time Prediction]**: Built and trained a **TensorFlow/Keras Regression Model** to accurately estimate delivery times, significantly improving operational transparency and efficiency in logistics.
+
+---
 
 ## 🔗 Find me
-- [LinkedIn](https://www.linkedin.com/in/sydneyabuto25/)
-- [Personal Website](https://www.datascienceportfol.io/sydneyabuto)
+* [LinkedIn](https://www.linkedin.com/in/sydneyabuto25/)
+* [GitHub](https://github.com/Sydney-25)
 
 ## 📫 Contact
 Feel free to connect or reach out via [sydney.abuto@gmail.com)!
